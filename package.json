@@ -1,0 +1,1 @@
+{"name":"ppfs","version":"1.0.0","description":"A password protected file store.","main":"src/index.js","repository":{"type":"git","url":"git+https://github.com/catpixy/ppfs.git"},"keywords":["encrypt","fs","password"],"author":"pixycat","license":"ISC","bugs":{"url":"https://github.com/catpixy/ppfs/issues"},"homepage":"https://github.com/catpixy/ppfs#readme"}
